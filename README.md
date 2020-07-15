@@ -1,5 +1,6 @@
 ![capa](.github/logo.png)
 
+[![Code style checkers status](https://github.com/fireeye/capa/workflows/CI/badge.svg)](https://github.com/fireeye/capa/actions?query=workflow%3A%22CI%22)
 [![Number of rules](https://img.shields.io/badge/rules-261-blue.svg)](https://github.com/fireeye/capa-rules)
 
 capa detects capabilities in executable files.
